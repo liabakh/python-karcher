@@ -101,7 +101,7 @@ class DeviceProperties:
     main_brush: int = 0
     side_brush: int = 0
     mop_life: int = 0
-    net_status: DevicePropertiesNetwork
+    #net_status: DevicePropertiesNetwork
     repeat_state: int = 0
     tank_state: int = 0
     cloth_state: int = 0
